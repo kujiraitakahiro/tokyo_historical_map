@@ -1,0 +1,9 @@
+body { padding: 1em 3em; margin: 2em auto; border: 1px solid #111; }
+#h1-1 { text-align: center; }
+#p-1 { text-align: left; }
+#c-copyright { text-align: center; }
+img { float: left; }
+a:link { color: black; }
+a:visited { color: gray; }
+a:hover { color: blue; }
+a:active { color: red; }
